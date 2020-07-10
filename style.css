@@ -22,3 +22,13 @@ h3{
     text-transform: none;
     letter-spacing: .01em;
 }
+#hex{
+    padding: 7px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border-radius: 24px;
+    transition: ease 0.150s;
+}
+#hex:hover{
+    padding: 11px;
+}
